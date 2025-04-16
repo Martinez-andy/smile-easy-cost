@@ -1,0 +1,288 @@
+
+{
+  "app": {
+    "name": "CarePrice",
+    "tagline": "Encuentra atención dental asequible con transparencia de precios"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "pricing": "Precios",
+    "dentists": "Dentistas",
+    "appointments": "Citas",
+    "account": "Cuenta",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse"
+  },
+  "language": {
+    "english": "Inglés",
+    "spanish": "Español"
+  },
+  "homePage": {
+    "hero": {
+      "title": "Encuentra procedimientos dentales asequibles en tu área",
+      "subtitle": "CarePrice te ayuda a comparar costos reales de dentistas locales - sin necesidad de seguro",
+      "searchLabel": "¿Qué procedimiento dental necesitas?",
+      "locationLabel": "Ingresa tu código postal",
+      "buttonText": "Encontrar Dentistas"
+    },
+    "features": {
+      "transparency": {
+        "title": "Transparencia de Precios",
+        "description": "Ve los costos reales de los procedimientos sin tarifas ocultas"
+      },
+      "comparison": {
+        "title": "Comparación Fácil",
+        "description": "Compara dentistas lado a lado según precio, ubicación y reseñas"
+      },
+      "booking": {
+        "title": "Reserva Directa",
+        "description": "Reserva tu cita instantáneamente sin llamadas telefónicas"
+      },
+      "financing": {
+        "title": "Opciones de Pago",
+        "description": "Explora opciones de financiamiento y planes de pago que se ajusten a tu presupuesto"
+      }
+    },
+    "procedures": {
+      "title": "Procedimientos Populares",
+      "subtitle": "Encuentra precios para estos tratamientos dentales comunes",
+      "implants": "Implantes Dentales",
+      "crowns": "Coronas Dentales",
+      "bridges": "Puentes Dentales",
+      "root_canal": "Tratamiento de Conducto",
+      "dentures": "Dentaduras",
+      "extractions": "Extracciones Dentales"
+    },
+    "testimonials": {
+      "title": "Lo Que Dicen Nuestros Usuarios",
+      "testimonial1": {
+        "text": "Ahorré más de $800 en mi implante dental comparando precios en CarePrice. El proceso de reserva fue simple y transparente.",
+        "author": "Sara T."
+      },
+      "testimonial2": {
+        "text": "Como alguien sin seguro dental, CarePrice ha sido revolucionario. Encontré un dentista asequible para mi corona e incluso establecí un plan de pago.",
+        "author": "Miguel R."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para encontrar atención dental asequible?",
+      "subtitle": "Únete a miles de pacientes que han ahorrado en sus procedimientos dentales",
+      "buttonText": "Comenzar"
+    }
+  },
+  "search": {
+    "title": "Resultados de Búsqueda",
+    "filters": {
+      "title": "Filtros",
+      "distance": "Distancia",
+      "price": "Rango de Precio",
+      "availability": "Disponibilidad",
+      "financing": "Opciones de Financiamiento",
+      "apply": "Aplicar Filtros",
+      "clear": "Borrar Filtros"
+    },
+    "sort": {
+      "title": "Ordenar Por",
+      "price_low": "Precio: Bajo a Alto",
+      "price_high": "Precio: Alto a Bajo",
+      "distance": "Distancia",
+      "rating": "Calificación"
+    },
+    "results": {
+      "showing": "Mostrando {{count}} resultados para {{procedure}} en {{location}}",
+      "noResults": "No se encontraron resultados. Intenta ajustar tus filtros."
+    }
+  },
+  "dentistProfile": {
+    "about": "Acerca de",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "reviews": "Reseñas",
+    "location": "Ubicación",
+    "availability": "Disponibilidad",
+    "bookAppointment": "Reservar Cita",
+    "contactInfo": "Información de Contacto",
+    "financingOptions": "Opciones de Financiamiento"
+  },
+  "booking": {
+    "steps": {
+      "select_service": "Seleccionar Servicio",
+      "select_time": "Seleccionar Horario",
+      "your_info": "Tu Información",
+      "financing": "Opciones de Financiamiento",
+      "confirm": "Confirmar Reserva"
+    },
+    "service": {
+      "title": "Selecciona un Servicio",
+      "procedure": "Procedimiento",
+      "description": "Descripción",
+      "price": "Precio",
+      "duration": "Duración",
+      "nextButton": "Continuar"
+    },
+    "datetime": {
+      "title": "Selecciona Fecha y Hora",
+      "available": "Disponible",
+      "unavailable": "No Disponible",
+      "morning": "Mañana",
+      "afternoon": "Tarde",
+      "evening": "Noche",
+      "noTimes": "No hay horarios disponibles en esta fecha. Por favor, selecciona otra fecha.",
+      "nextButton": "Continuar",
+      "backButton": "Atrás"
+    },
+    "information": {
+      "title": "Tu Información",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "notes": "Notas para el dentista (opcional)",
+      "consent": "Consiento compartir mi información de contacto con el consultorio dental",
+      "nextButton": "Continuar",
+      "backButton": "Atrás"
+    },
+    "financing": {
+      "title": "Opciones de Financiamiento",
+      "subtitle": "Explora opciones de pago para tu procedimiento",
+      "payFull": "Pago Completo",
+      "paymentPlan": "Plan de Pago",
+      "thirdParty": "Financiamiento de Terceros",
+      "monthly": "Pago Mensual",
+      "termLength": "Duración del Plazo",
+      "interest": "Tasa de Interés",
+      "checkEligibility": "Verificar Elegibilidad",
+      "eligible": "Eres elegible para esta opción de financiamiento",
+      "notEligible": "No eres elegible para esta opción",
+      "nextButton": "Continuar",
+      "backButton": "Atrás",
+      "skipButton": "Omitir Este Paso"
+    },
+    "confirmation": {
+      "title": "Confirma Tu Cita",
+      "service": "Servicio",
+      "dentist": "Dentista",
+      "location": "Ubicación",
+      "date": "Fecha",
+      "time": "Hora",
+      "price": "Precio",
+      "financing": "Plan de Financiamiento",
+      "contactInfo": "Información de Contacto",
+      "confirmButton": "Confirmar Reserva",
+      "backButton": "Atrás",
+      "terms": "Al confirmar, aceptas nuestros Términos de Servicio y reconoces nuestra Política de Privacidad."
+    },
+    "success": {
+      "title": "¡Reserva Confirmada!",
+      "subtitle": "Tu cita ha sido reservada exitosamente",
+      "reference": "Referencia de Reserva",
+      "instructions": "Instrucciones",
+      "calendarButton": "Añadir al Calendario",
+      "homeButton": "Volver al Inicio",
+      "questionnaire": "Completar Cuestionario Previo a la Visita"
+    }
+  },
+  "patientAccount": {
+    "dashboard": {
+      "title": "Panel del Paciente",
+      "welcome": "Bienvenido de nuevo, {{name}}",
+      "upcomingAppointments": "Próximas Citas",
+      "pastAppointments": "Citas Pasadas",
+      "savedDentists": "Dentistas Guardados",
+      "savedSearches": "Búsquedas Guardadas"
+    },
+    "appointments": {
+      "upcoming": "Próximas Citas",
+      "past": "Citas Pasadas",
+      "none": "No se encontraron citas",
+      "cancel": "Cancelar Cita",
+      "reschedule": "Reprogramar",
+      "leaveReview": "Dejar una Reseña"
+    },
+    "reviews": {
+      "title": "Dejar una Reseña",
+      "rating": "Calificación",
+      "comment": "Comentarios",
+      "anonymous": "Publicar Anónimamente",
+      "submit": "Enviar Reseña",
+      "thankYou": "¡Gracias por tus comentarios!"
+    },
+    "profile": {
+      "title": "Configuración de Perfil",
+      "personalInfo": "Información Personal",
+      "contactInfo": "Información de Contacto",
+      "password": "Contraseña",
+      "notifications": "Preferencias de Notificación",
+      "saveChanges": "Guardar Cambios"
+    }
+  },
+  "dentistAccount": {
+    "dashboard": {
+      "title": "Panel de la Clínica",
+      "welcome": "Bienvenido, {{practice}}",
+      "upcomingAppointments": "Próximas Citas",
+      "newRequests": "Nuevas Solicitudes de Citas",
+      "analytics": "Análisis",
+      "messageCenter": "Centro de Mensajes"
+    },
+    "practice": {
+      "title": "Información de la Clínica",
+      "name": "Nombre de la Clínica",
+      "address": "Dirección",
+      "phone": "Número de Teléfono",
+      "email": "Correo Electrónico",
+      "website": "Sitio Web",
+      "description": "Descripción de la Clínica",
+      "hours": "Horarios de Atención",
+      "insurance": "Seguros Aceptados",
+      "saveChanges": "Guardar Cambios"
+    },
+    "services": {
+      "title": "Administrar Servicios y Precios",
+      "addService": "Añadir Servicio",
+      "editService": "Editar Servicio",
+      "removeService": "Eliminar Servicio",
+      "service": "Servicio",
+      "description": "Descripción",
+      "price": "Precio",
+      "duration": "Duración",
+      "saveChanges": "Guardar Cambios"
+    },
+    "availability": {
+      "title": "Administrar Disponibilidad",
+      "blockTime": "Bloquear Horario",
+      "openHours": "Establecer Horarios de Atención",
+      "exceptions": "Añadir Excepciones",
+      "saveChanges": "Guardar Cambios"
+    },
+    "financing": {
+      "title": "Opciones de Financiamiento",
+      "addOption": "Añadir Opción de Financiamiento",
+      "editOption": "Editar Opción de Financiamiento",
+      "removeOption": "Eliminar Opción de Financiamiento",
+      "optionName": "Nombre de la Opción",
+      "description": "Descripción",
+      "provider": "Proveedor",
+      "terms": "Términos",
+      "eligibility": "Criterios de Elegibilidad",
+      "saveChanges": "Guardar Cambios"
+    }
+  },
+  "errors": {
+    "general": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "form": "Por favor, corrige los errores en el formulario e inténtalo de nuevo.",
+    "server": "Error del servidor. Por favor, inténtalo más tarde.",
+    "auth": "Error de autenticación. Por favor, inicia sesión de nuevo.",
+    "notFound": "Página no encontrada."
+  },
+  "buttons": {
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "continue": "Continuar"
+  }
+}

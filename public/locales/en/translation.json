@@ -1,0 +1,288 @@
+
+{
+  "app": {
+    "name": "CarePrice",
+    "tagline": "Find affordable dental care with price transparency"
+  },
+  "navigation": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "dentists": "Dentists",
+    "appointments": "Appointments",
+    "account": "Account",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "language": {
+    "english": "English",
+    "spanish": "Spanish"
+  },
+  "homePage": {
+    "hero": {
+      "title": "Find affordable dental procedures in your area",
+      "subtitle": "CarePrice helps you compare real costs from local dentists - no insurance required",
+      "searchLabel": "What dental procedure do you need?",
+      "locationLabel": "Enter your ZIP code",
+      "buttonText": "Find Dentists"
+    },
+    "features": {
+      "transparency": {
+        "title": "Price Transparency",
+        "description": "See real costs for procedures with no hidden fees"
+      },
+      "comparison": {
+        "title": "Easy Comparison",
+        "description": "Compare dentists side-by-side based on price, location, and reviews"
+      },
+      "booking": {
+        "title": "Direct Booking",
+        "description": "Book your appointment instantly without phone calls"
+      },
+      "financing": {
+        "title": "Payment Options",
+        "description": "Explore financing and payment plans that fit your budget"
+      }
+    },
+    "procedures": {
+      "title": "Popular Procedures",
+      "subtitle": "Find pricing for these common dental treatments",
+      "implants": "Dental Implants",
+      "crowns": "Dental Crowns",
+      "bridges": "Dental Bridges",
+      "root_canal": "Root Canal",
+      "dentures": "Dentures",
+      "extractions": "Tooth Extractions"
+    },
+    "testimonials": {
+      "title": "What Our Users Say",
+      "testimonial1": {
+        "text": "I saved over $800 on my dental implant by comparing prices on CarePrice. The booking process was simple and transparent.",
+        "author": "Sarah T."
+      },
+      "testimonial2": {
+        "text": "As someone without dental insurance, CarePrice has been a game-changer. I found an affordable dentist for my crown and even set up a payment plan.",
+        "author": "Michael R."
+      }
+    },
+    "cta": {
+      "title": "Ready to find affordable dental care?",
+      "subtitle": "Join thousands of patients who have saved on their dental procedures",
+      "buttonText": "Get Started"
+    }
+  },
+  "search": {
+    "title": "Search Results",
+    "filters": {
+      "title": "Filters",
+      "distance": "Distance",
+      "price": "Price Range",
+      "availability": "Availability",
+      "financing": "Financing Options",
+      "apply": "Apply Filters",
+      "clear": "Clear Filters"
+    },
+    "sort": {
+      "title": "Sort By",
+      "price_low": "Price: Low to High",
+      "price_high": "Price: High to Low",
+      "distance": "Distance",
+      "rating": "Rating"
+    },
+    "results": {
+      "showing": "Showing {{count}} results for {{procedure}} in {{location}}",
+      "noResults": "No results found. Try adjusting your filters."
+    }
+  },
+  "dentistProfile": {
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "reviews": "Reviews",
+    "location": "Location",
+    "availability": "Availability",
+    "bookAppointment": "Book Appointment",
+    "contactInfo": "Contact Information",
+    "financingOptions": "Financing Options"
+  },
+  "booking": {
+    "steps": {
+      "select_service": "Select Service",
+      "select_time": "Select Time",
+      "your_info": "Your Information",
+      "financing": "Financing Options",
+      "confirm": "Confirm Booking"
+    },
+    "service": {
+      "title": "Select a Service",
+      "procedure": "Procedure",
+      "description": "Description",
+      "price": "Price",
+      "duration": "Duration",
+      "nextButton": "Continue"
+    },
+    "datetime": {
+      "title": "Select a Date & Time",
+      "available": "Available",
+      "unavailable": "Unavailable",
+      "morning": "Morning",
+      "afternoon": "Afternoon",
+      "evening": "Evening",
+      "noTimes": "No available times on this date. Please select another date.",
+      "nextButton": "Continue",
+      "backButton": "Back"
+    },
+    "information": {
+      "title": "Your Information",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "notes": "Notes for the dentist (optional)",
+      "consent": "I consent to sharing my contact information with the dental office",
+      "nextButton": "Continue",
+      "backButton": "Back"
+    },
+    "financing": {
+      "title": "Financing Options",
+      "subtitle": "Explore payment options for your procedure",
+      "payFull": "Pay in Full",
+      "paymentPlan": "Payment Plan",
+      "thirdParty": "Third-Party Financing",
+      "monthly": "Monthly Payment",
+      "termLength": "Term Length",
+      "interest": "Interest Rate",
+      "checkEligibility": "Check Eligibility",
+      "eligible": "You're eligible for this financing option",
+      "notEligible": "You're not eligible for this option",
+      "nextButton": "Continue",
+      "backButton": "Back",
+      "skipButton": "Skip This Step"
+    },
+    "confirmation": {
+      "title": "Confirm Your Appointment",
+      "service": "Service",
+      "dentist": "Dentist",
+      "location": "Location",
+      "date": "Date",
+      "time": "Time",
+      "price": "Price",
+      "financing": "Financing Plan",
+      "contactInfo": "Contact Information",
+      "confirmButton": "Confirm Booking",
+      "backButton": "Back",
+      "terms": "By confirming, you agree to our Terms of Service and acknowledge our Privacy Policy."
+    },
+    "success": {
+      "title": "Booking Confirmed!",
+      "subtitle": "Your appointment has been successfully booked",
+      "reference": "Booking Reference",
+      "instructions": "Instructions",
+      "calendarButton": "Add to Calendar",
+      "homeButton": "Back to Home",
+      "questionnaire": "Complete Pre-Visit Questionnaire"
+    }
+  },
+  "patientAccount": {
+    "dashboard": {
+      "title": "Patient Dashboard",
+      "welcome": "Welcome back, {{name}}",
+      "upcomingAppointments": "Upcoming Appointments",
+      "pastAppointments": "Past Appointments",
+      "savedDentists": "Saved Dentists",
+      "savedSearches": "Saved Searches"
+    },
+    "appointments": {
+      "upcoming": "Upcoming Appointments",
+      "past": "Past Appointments",
+      "none": "No appointments found",
+      "cancel": "Cancel Appointment",
+      "reschedule": "Reschedule",
+      "leaveReview": "Leave a Review"
+    },
+    "reviews": {
+      "title": "Leave a Review",
+      "rating": "Rating",
+      "comment": "Comments",
+      "anonymous": "Post Anonymously",
+      "submit": "Submit Review",
+      "thankYou": "Thank you for your feedback!"
+    },
+    "profile": {
+      "title": "Profile Settings",
+      "personalInfo": "Personal Information",
+      "contactInfo": "Contact Information",
+      "password": "Password",
+      "notifications": "Notification Preferences",
+      "saveChanges": "Save Changes"
+    }
+  },
+  "dentistAccount": {
+    "dashboard": {
+      "title": "Practice Dashboard",
+      "welcome": "Welcome, {{practice}}",
+      "upcomingAppointments": "Upcoming Appointments",
+      "newRequests": "New Appointment Requests",
+      "analytics": "Analytics",
+      "messageCenter": "Message Center"
+    },
+    "practice": {
+      "title": "Practice Information",
+      "name": "Practice Name",
+      "address": "Address",
+      "phone": "Phone Number",
+      "email": "Email",
+      "website": "Website",
+      "description": "Practice Description",
+      "hours": "Office Hours",
+      "insurance": "Accepted Insurance",
+      "saveChanges": "Save Changes"
+    },
+    "services": {
+      "title": "Manage Services & Pricing",
+      "addService": "Add Service",
+      "editService": "Edit Service",
+      "removeService": "Remove Service",
+      "service": "Service",
+      "description": "Description",
+      "price": "Price",
+      "duration": "Duration",
+      "saveChanges": "Save Changes"
+    },
+    "availability": {
+      "title": "Manage Availability",
+      "blockTime": "Block Time",
+      "openHours": "Set Open Hours",
+      "exceptions": "Add Exceptions",
+      "saveChanges": "Save Changes"
+    },
+    "financing": {
+      "title": "Financing Options",
+      "addOption": "Add Financing Option",
+      "editOption": "Edit Financing Option",
+      "removeOption": "Remove Financing Option",
+      "optionName": "Option Name",
+      "description": "Description",
+      "provider": "Provider",
+      "terms": "Terms",
+      "eligibility": "Eligibility Criteria",
+      "saveChanges": "Save Changes"
+    }
+  },
+  "errors": {
+    "general": "Something went wrong. Please try again.",
+    "form": "Please fix the errors in the form and try again.",
+    "server": "Server error. Please try again later.",
+    "auth": "Authentication error. Please log in again.",
+    "notFound": "Page not found."
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "continue": "Continue"
+  }
+}
